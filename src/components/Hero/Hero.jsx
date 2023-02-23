@@ -43,14 +43,14 @@ const Hero = () => {
           <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
             <div className="primaryText"></div>
             <div className="secondaryText">
-              <div></div>
-              <div></div>
+              <div> </div>
+              <div> </div>
             </div>
           </motion.div>
 
-          <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
-            <img src="./certificate.png" alt="" />
-            <span>Full Stack Developer</span>
+          <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.experience}>
+            <img className="pl-[2.5rem]" src="./certificate.png" alt="" />
+            <span className="pr-[2rem]">Full Stack Developer</span>
           </motion.div>
         </div>
       </motion.div>
