@@ -21,11 +21,11 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:zainkeepscode@gmail.com">saying hi</a>
+            Start by <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ankit.pndy2002@gmail.com" target="_blank">saying hi</a>
           </span>
         </div>
 
-        <div className={css.right}>
+        {/* <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
             <p>145 New York, FL 5467, USA</p>
@@ -36,7 +36,7 @@ const Footer = () => {
             <li>Notes</li>
             <li>Experience</li>
           </ul>
-        </div>
+        </div> */}
       </motion.div>
     </motion.section>
   );
