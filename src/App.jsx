@@ -7,6 +7,8 @@ import People from './components/People/People'
 import Portfolio from './components/Portfolio/Portfolio'
 import Work from './components/Work/Work'
 import css from './styles/App.module.scss'
+import './styles/index.css'
+
 const App = () => {
   //don't forget to add font link in index.html
   return (
