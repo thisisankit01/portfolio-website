@@ -33,7 +33,10 @@ const Footer = () => {
             <span className="text-2xl">Here's My Resume</span>
           </div>
           <button className="border px-2 py-2 bg-coolGray-800">
-            <a href="https://drive.google.com/file/d/1-LlzipbTIfDmFABC05EoWSt_GIUN2o3E/view?usp=share_link">
+            <a
+              target="_blank"
+              href="https://drive.google.com/file/d/1-LlzipbTIfDmFABC05EoWSt_GIUN2o3E/view?usp=share_link"
+            >
               📃 My Resume
             </a>
           </button>
