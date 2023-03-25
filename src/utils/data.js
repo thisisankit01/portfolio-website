@@ -23,8 +23,8 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finding a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
- ,
+  "As a full stack developer intern, I can help you build and maintain web applications, debug and troubleshoot issues, improve UI/UX, conduct research and analysis, and collaborate with your team to complete projects and tasks.",
+  ,
 ];
 
 export const workExp = [
